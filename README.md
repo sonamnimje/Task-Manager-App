@@ -24,7 +24,11 @@ A polished full stack Task Manager that demonstrates practical engineering funda
 
 ## Screenshots
 
-Add screenshots in a docs or assets folder, then link them here:
+### Task Manager UI
+
+![Task Manager UI](docs/screenshots/task-manager-ui.png)
+
+Additional screenshots:
 
 - Task list view: docs/screenshots/task-list.png
 - Add task flow: docs/screenshots/add-task.png
